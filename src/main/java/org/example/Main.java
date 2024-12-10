@@ -3,9 +3,8 @@ package org.example;
 import org.apache.calcite.adapter.java.ReflectiveSchema;
 import org.apache.calcite.jdbc.CalciteConnection;
 import org.apache.calcite.rel.type.RelDataType;
-import org.apache.calcite.rel.type.RelDataTypeFactory;
-import org.apache.calcite.schema.Table;
 import org.apache.calcite.schema.SchemaPlus;
+import org.apache.calcite.schema.Table;
 
 import java.sql.*;
 import java.util.Properties;
